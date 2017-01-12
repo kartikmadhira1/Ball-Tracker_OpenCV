@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''
   Ball Tracker.py Python node to track green colored ball
   Copyright (c) 2016 Kartik Madhira.  All right reserved.
@@ -22,6 +23,11 @@
   License along with this library; if not, write to the Free Software
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 '''
+=======
+#@author: Kartik Madhira
+#kartikmadhira1@gmail.com
+#www.techspirityou.blogspot.com
+>>>>>>> origin/master
 import cv2
 import serial
 import numpy as np
