@@ -1,33 +1,8 @@
-<<<<<<< HEAD
-'''
-  Ball Tracker.py Python node to track green colored ball
-  Copyright (c) 2016 Kartik Madhira.  All right reserved.
 
-  The code uses OpenCV library and tracks green color using HSV
-  based color extraction. First the image is turned into HSV format
-  and then green color is tracked using inRange function. The node also
-  sends serial inputs to the USB port on Arduino Uno.
-  
-
-  This library is free software; you can redistribute it and/or
-  modify it under the terms of the GNU Lesser General Public
-  License as published by the Free Software Foundation; either
-  version 2.1 of the License, or (at your option) any later version.
-
-  This library is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-  Lesser General Public License for more details.
-
-  You should have received a copy of the GNU Lesser General Public
-  License along with this library; if not, write to the Free Software
-  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-'''
-=======
 #@author: Kartik Madhira
 #kartikmadhira1@gmail.com
 #www.techspirityou.blogspot.com
->>>>>>> origin/master
+
 import cv2
 import serial
 import numpy as np
